@@ -1,0 +1,5 @@
+# Backend Framework
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Nanti kita akan tambahkan library ML (Pandas, Scikit-Learn) di bawah sini
