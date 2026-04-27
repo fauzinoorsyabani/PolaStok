@@ -1,6 +1,6 @@
-# PolaStok (SEDIAin) - Tactical Project Workflow 🚀
+# PolaStok (PolaStok) - Tactical Project Workflow 🚀
 
-Workflow ini dirancang untuk memandu pengerjaan MVP (Minimum Viable Product) SEDIAin selama 6 minggu. Ini merupakan penjabaran dari dokumen *Project Plan* menjadi tugas-tugas taktis yang dapat diserahkan ke *Learning Path* masing-masing (Frontend, Backend, ML, dan Project Management).
+Workflow ini dirancang untuk memandu pengerjaan MVP (Minimum Viable Product) PolaStok selama 6 minggu. Ini merupakan penjabaran dari dokumen *Project Plan* menjadi tugas-tugas taktis yang dapat diserahkan ke *Learning Path* masing-masing (Frontend, Backend, ML, dan Project Management).
 
 ## 📌 Minggu 1: Setup & Data Exploration (Fondasi)
 **Fokus:** Mempersiapkan environment pengembangan, pembagian tugas eksplisit, dan analisis dataset dasar.
@@ -72,7 +72,7 @@ Workflow ini dirancang untuk memandu pengerjaan MVP (Minimum Viable Product) SED
     *   [ ] *Deploy* Backend & ML Model ke platform Cloud (misal: Railway, Render, atau Heroku).
     *   [ ] *Deploy* Frontend ke Vercel atau Netlify.
 *   **Penulisan Slides & Simulasi Pitching** (Semua Tim)
-    *   [ ] Berlatih demonstrasi live *SEDIAin*.
+    *   [ ] Berlatih demonstrasi live *PolaStok*.
     *   [ ] Mematangkan Executive Summary & Slide Deck presentasi Final.
 
 ---
